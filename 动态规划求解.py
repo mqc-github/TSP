@@ -1,6 +1,6 @@
 '''
 -*- coding: utf-8 -*-
-@File  : 动态规划求解.py
+@File  : 贪心算法.py
 @Author: mqc
 @Time  : 2022/12/1 19:05
 '''
